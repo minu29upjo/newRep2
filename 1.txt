@@ -1,0 +1,21 @@
+nano 2.txt
+pwd
+wq
+:wq
+clear
+he^o
+^o
+^x
+^X
+X
+ Xexit
+
+
+
+
+
+
+
+
+
+
